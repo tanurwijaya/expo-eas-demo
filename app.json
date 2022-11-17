@@ -12,7 +12,7 @@
       "backgroundColor": "#ffffff"
     },
     "updates": {
-      "fallbackToCacheTimeout": 0,
+      "fallbackToCacheTimeout": 60000,
       "url": "https://u.expo.dev/4fc614ac-7382-4af5-9343-0a89b2195efe"
     },
     "assetBundlePatterns": [
